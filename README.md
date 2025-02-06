@@ -16,6 +16,7 @@ Hi, I'm **Rami Djebli**, a **full Stack Developer** with a strong focus on build
 <img width="80" src="https://img.icons8.com/color/80/adobe-photoshop--v1.png"  />
     <img width="80" src="https://img.icons8.com/color/80/figma--v1.png" alt="UI/UX Design" width="400" />
 </div>
+
 - **Web Devlopment**
 <div style="display:flex">
 <img width="80" src="icons/reactjs.png" />
