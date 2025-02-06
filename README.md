@@ -5,7 +5,7 @@
 -->
 
 
-I'm Ramy, a passionate **MERN Stack Developer**, **UI/UX Enthusiast**, and a **Master's Student** in Computer Science. I love building scalable web applications, designing intuitive user interfaces, and exploring new technologies. Here's a little about me:
+Hi, I'm **Rami Djebli**, a **full Stack Developer** with a strong focus on building scalable, high-performance web applications. As a **UI/UX** enthusiast and a **Master’s student** in Computer Science, I aim to combine technical proficiency with intuitive design to create seamless user experiences. I continuously explore new technologies and industry best practices to enhance the quality of the solutions I deliver.
 
 ---
 
@@ -13,8 +13,8 @@ I'm Ramy, a passionate **MERN Stack Developer**, **UI/UX Enthusiast**, and a **M
 
 - **UI/UX**
 <div style="display:flex">
-<img width="80" src="https://img.icons8.com/color/80/adobe-photoshop--v1.png"  /></br>
-    <img width="80" src="https://img.icons8.com/color/80/figma--v1.png" alt="UI/UX Design" width="400" /></br>
+<img width="80" src="https://img.icons8.com/color/80/adobe-photoshop--v1.png"  />
+    <img width="80" src="https://img.icons8.com/color/80/figma--v1.png" alt="UI/UX Design" width="400" />
 </div>
 - **Web Devlopment**
 <div style="display:flex">
