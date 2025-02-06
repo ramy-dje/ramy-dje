@@ -13,46 +13,46 @@ Hi, I'm **Rami Djebli**, a **full Stack Developer** with a strong focus on build
 
 - **UI/UX**
 <div style="display:flex">
-<img width="80" src="https://img.icons8.com/color/80/adobe-photoshop--v1.png"  />
-    <img width="80" src="https://img.icons8.com/color/80/figma--v1.png" alt="UI/UX Design" width="400" />
+<img width="60" src="https://img.icons8.com/color/60/adobe-photoshop--v1.png"  />
+    <img width="60" src="https://img.icons8.com/color/60/figma--v1.png" alt="UI/UX Design" width="400" />
 </div>
 
 - **Web Devlopment**
 <div style="display:flex">
-<img width="80" src="icons/reactjs.png" />
-<img width="80" src="icons/next.png" />
-<img width="80" src="icons/redux.png" />
-<img width="80" src="icons/vue.png" />
-<img width="80" src="icons/laravel.png" />
-<img width="80" src="icons/django.png" />
-<img width="80" src="icons/graphql.png" />
-<img width="80" src="icons/node.png" />
-<img width="80" src="icons/express.png" />
+<img width="60" src="icons/reactjs.png" />
+<img width="60" src="icons/next.png" />
+<img width="60" src="icons/redux.png" />
+<img width="60" src="icons/vue.png" />
+<img width="60" src="icons/laravel.png" />
+<img width="60" src="icons/django.png" />
+<img width="60" src="icons/graphql.png" />
+<img width="60" src="icons/node.png" />
+<img width="60" src="icons/express.png" />
 </div>
 
 - **Mobile Devlopment**
 <div style="display:flex">
-<img width="80" src="icons/reactnative.png" />
-<img width="80" src="icons/expo.png" />
-<img width="80" height="80" src="https://img.icons8.com/color/80/flutter.png" alt="flutter"/>
+<img width="60" src="icons/reactnative.png" />
+<img width="60" src="icons/expo.png" />
+<img width="60" height="60" src="https://img.icons8.com/color/60/flutter.png" alt="flutter"/>
 </div>
 
 - **Databases**
 <div style="display:flex">
-<img width="80" src="icons/redis.png" />
-<img width="80" src="icons/mysql.png" />
-<img width="80" src="icons/mongo.png" />
-<img width="80" src="icons/sqlite.png" />
+<img width="60" src="icons/redis.png" />
+<img width="60" src="icons/mysql.png" />
+<img width="60" src="icons/mongo.png" />
+<img width="60" src="icons/sqlite.png" />
 </div>
 
 - **Others**
 <div style="display:flex">
-<img width="80" src="icons/docker.png" />
-<img width="80" src="icons/digital.png" />
-<img width="80" src="icons/aws.png" />
-<img width="80" src="icons/githubactions.png" />
-<img width="80" src="icons/git.png" />
-<img width="80" src="icons/linux.png" />
+<img width="60" src="icons/docker.png" />
+<img width="60" src="icons/digital.png" />
+<img width="60" src="icons/aws.png" />
+<img width="60" src="icons/githubactions.png" />
+<img width="60" src="icons/git.png" />
+<img width="60" src="icons/linux.png" />
 </div>
 
 ---
@@ -90,8 +90,8 @@ If you have an idea or project, feel free to reach out!
 
 Let's connect! You can find me on:
 
-[![LinkedIn](https://img.icons8.com/fluency/80/linkedin.png)](https://www.linkedin.com/in/rami-djebeli)
-[![Gmail](https://img.icons8.com/fluency/80/gmail-new.png)](mailto:ramyromirso@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluency/60/linkedin.png)](https://www.linkedin.com/in/rami-djebeli)
+[![Gmail](https://img.icons8.com/fluency/60/gmail-new.png)](mailto:ramyromirso@gmail.com)
 
 ---
 
