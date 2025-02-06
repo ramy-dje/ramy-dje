@@ -13,8 +13,8 @@ I'm Ramy, a passionate **MERN Stack Developer**, **UI/UX Enthusiast**, and a **M
 
 - **UI/UX**
 <div style="display:flex">
-<img width="80" src="https://img.icons8.com/color/96/adobe-photoshop--v1.png"  /></br>
-    <img width="80" src="https://img.icons8.com/color/96/figma--v1.png" alt="UI/UX Design" width="400" /></br>
+<img width="80" src="https://img.icons8.com/color/80/adobe-photoshop--v1.png"  /></br>
+    <img width="80" src="https://img.icons8.com/color/80/figma--v1.png" alt="UI/UX Design" width="400" /></br>
 </div>
 - **Web Devlopment**
 <div style="display:flex">
@@ -27,13 +27,13 @@ I'm Ramy, a passionate **MERN Stack Developer**, **UI/UX Enthusiast**, and a **M
 <img width="80" src="icons/graphql.png" />
 <img width="80" src="icons/node.png" />
 <img width="80" src="icons/express.png" />
-<img width="80" src="icons/.png" />
 </div>
+
 - **Mobile Devlopment**
 <div style="display:flex">
 <img width="80" src="icons/reactnative.png" />
 <img width="80" src="icons/expo.png" />
-<img width="80" height="96" src="https://img.icons8.com/color/80/flutter.png" alt="flutter"/>
+<img width="80" height="80" src="https://img.icons8.com/color/80/flutter.png" alt="flutter"/>
 </div>
 
 - **Databases**
@@ -43,6 +43,7 @@ I'm Ramy, a passionate **MERN Stack Developer**, **UI/UX Enthusiast**, and a **M
 <img width="80" src="icons/mongo.png" />
 <img width="80" src="icons/sqlite.png" />
 </div>
+
 - **Others**
 <div style="display:flex">
 <img width="80" src="icons/docker.png" />
@@ -65,8 +66,8 @@ I’m currently pursuing my **Master's degree in Computer Science**, where I’m
 
 ### 🌱 What I’m Currently Learning
 
-- Advanced React patterns and state management (Redux, Context API).
-- GraphQL for efficient API design.
+- Design scalable, efficient, and maintainable systems.
+- Techniques to improve the performance and security of applications.
 - Cloud platforms like AWS and Firebase for deployment.
 - Machine learning concepts and their applications in web development.
 
