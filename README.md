@@ -2,15 +2,104 @@
 
 <!--
 **ramy-dje/ramy-dje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+I'm Ramy, a passionate **MERN Stack Developer**, **UI/UX Enthusiast**, and a **Master's Student** in Computer Science. I love building scalable web applications, designing intuitive user interfaces, and exploring new technologies. Here's a little about me:
+
+---
+
+### 🛠 Technologies i use
+
+- **UI/UX**
+<div style="display:flex">
+<img width="80" src="https://img.icons8.com/color/96/adobe-photoshop--v1.png"  /></br>
+    <img width="80" src="https://img.icons8.com/color/96/figma--v1.png" alt="UI/UX Design" width="400" /></br>
+</div>
+- **Web Devlopment**
+<div style="display:flex">
+<img width="80" src="icons/reactjs.png" />
+<img width="80" src="icons/next.png" />
+<img width="80" src="icons/redux.png" />
+<img width="80" src="icons/vue.png" />
+<img width="80" src="icons/laravel.png" />
+<img width="80" src="icons/django.png" />
+<img width="80" src="icons/graphql.png" />
+<img width="80" src="icons/node.png" />
+<img width="80" src="icons/express.png" />
+<img width="80" src="icons/.png" />
+</div>
+- **Mobile Devlopment**
+<div style="display:flex">
+<img width="80" src="icons/reactnative.png" />
+<img width="80" src="icons/expo.png" />
+<img width="80" height="96" src="https://img.icons8.com/color/80/flutter.png" alt="flutter"/>
+</div>
+
+- **Databases**
+<div style="display:flex">
+<img width="80" src="icons/redis.png" />
+<img width="80" src="icons/mysql.png" />
+<img width="80" src="icons/mongo.png" />
+<img width="80" src="icons/sqlite.png" />
+</div>
+- **Others**
+<div style="display:flex">
+<img width="80" src="icons/docker.png" />
+<img width="80" src="icons/digital.png" />
+<img width="80" src="icons/aws.png" />
+<img width="80" src="icons/githubactions.png" />
+<img width="80" src="icons/git.png" />
+<img width="80" src="icons/linux.png" />
+</div>
+
+---
+
+### 🎓 Master's Student
+
+
+
+I’m currently pursuing my **Master's degree in Computer Science**, where I’m diving deeper into algorithms, machine learning, and software engineering principles. My academic journey complements my practical skills, allowing me to approach problems with both theoretical and hands-on perspectives.
+
+---
+
+### 🌱 What I’m Currently Learning
+
+- Advanced React patterns and state management (Redux, Context API).
+- GraphQL for efficient API design.
+- Cloud platforms like AWS and Firebase for deployment.
+- Machine learning concepts and their applications in web development.
+
+---
+
+### 👯 Looking to Collaborate
+
+I’m always open to collaborating on exciting projects, especially those involving:
+- Full-stack web development,
+- UI/UX design,
+- Open-source contributions, or
+- Innovative tech solutions.
+
+If you have an idea or project, feel free to reach out!
+
+---
+
+### 📫 How to Reach Me
+
+Let's connect! You can find me on:
+
+[![LinkedIn](https://img.icons8.com/fluency/80/linkedin.png)](https://www.linkedin.com/in/rami-djebeli)
+[![Gmail](https://img.icons8.com/fluency/80/gmail-new.png)](mailto:ramyromirso@gmail.com)
+
+---
+
+
+### 🚀 Let's Build Something Amazing!
+
+Feel free to explore my repositories and don’t hesitate to reach out if you’d like to collaborate or just chat about tech!
+
+---
+
+
+
+Thanks for visiting! 😄
