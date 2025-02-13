@@ -48,7 +48,7 @@ Hi, I'm **Rami Djebli**, a **full Stack Developer** with a strong focus on build
 - **Others**
 <div style="display:flex">
 <img width="60" src="icons/docker.png" />
-# <!-- <img width="60" src="icons/digital.png" /> -->
+ <!-- <img width="60" src="icons/digital.png" /> -->
 <img width="60" src="icons/aws.png" />
 <img width="60" src="icons/githubactions.png" />
 <img width="60" src="icons/git.png" />
