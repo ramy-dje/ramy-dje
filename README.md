@@ -22,9 +22,9 @@ Hi, I'm **Rami Djebli**, a **full Stack Developer** with a strong focus on build
 <img width="60" src="icons/reactjs.png" />
 <img width="60" src="icons/next.png" />
 <img width="60" src="icons/redux.png" />
-<img width="60" src="icons/vue.png" />
-<img width="60" src="icons/laravel.png" />
-<img width="60" src="icons/django.png" />
+<!-- <img width="60" src="icons/vue.png" /> -->
+<!-- <img width="60" src="icons/laravel.png" /> -->
+<!-- <img width="60" src="icons/django.png" /> -->
 <img width="60" src="icons/graphql.png" />
 <img width="60" src="icons/node.png" />
 <img width="60" src="icons/express.png" />
@@ -49,8 +49,8 @@ Hi, I'm **Rami Djebli**, a **full Stack Developer** with a strong focus on build
 <div style="display:flex">
 <img width="60" src="icons/docker.png" />
  <!-- <img width="60" src="icons/digital.png" /> -->
-<img width="60" src="icons/aws.png" />
-<img width="60" src="icons/githubactions.png" />
+<!-- <img width="60" src="icons/aws.png" /> -->
+<!-- <img width="60" src="icons/githubactions.png" /> -->
 <img width="60" src="icons/git.png" />
 <img width="60" src="icons/linux.png" />
 </div>
