@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-
+<!--
 
 ## 🚀 Featured Projects
 
@@ -158,7 +158,7 @@
   </tr>
 </table>
 
-
+-->
 
 <div align="center">
 
